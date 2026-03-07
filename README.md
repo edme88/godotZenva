@@ -1,7 +1,6 @@
-# Intro to Godot 4 Game Development
+# [Humble Bundle – Complete Godot 2025 – Tier 3](https://academy.zenva.com/course/humble-bundle-complete-godot-2025-tier-3/)
 
-## Git and GitHub for Godot – Version Control Essentials
-Link: https://academy.zenva.com/lesson/github-desktop-2/?zva_less_compl=3554650
+## [3. Git and GitHub for Godot – Version Control Essentials](https://academy.zenva.com/course/godot-version-control-course/)
 1. Course Requirements
 2. Introduction
 3. Godot installation and Version
