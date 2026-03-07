@@ -1,0 +1,10 @@
+1.7 Quiz - Editor Overview ✅
+
+# 1. What is the purpose of the Scene dock?
+Display all the nodes in the current scene.
+
+#2. Which dock do we use to access the files of our project?
+FileSystem
+
+#3. When we select a node, what happens in the Inspector dock?
+It displays that node's properties.
