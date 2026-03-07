@@ -16,6 +16,7 @@ Time: 2hs 44min
 
 ## [3. Git and GitHub for Godot – Version Control Essentials](https://academy.zenva.com/course/godot-version-control-course/)
 Time: 48min
+Certificado: https://academy.zenva.com/certificate/f215aa96612a
 1. Course Requirements
 2. Introduction
 3. Godot installation and Version
