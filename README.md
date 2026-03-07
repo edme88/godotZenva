@@ -4,11 +4,11 @@
 Time: 2hs 44min
 1. Course Requirements
 2. Introduction
-3. Downloading Godot
+3. Downloading Godot 
 4. Godot Installation and Version
 5. Creating a New Project
 6. Editor Overview
-7. Quiz - Editor Overview
+7. Quiz - Editor Overview ✅
 8. Scene Navigation
 9. Basic Shorcuts Cheatsheet
 10. Importing Assets
