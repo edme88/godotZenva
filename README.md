@@ -1,6 +1,21 @@
 # [Humble Bundle – Complete Godot 2025 – Tier 3](https://academy.zenva.com/course/humble-bundle-complete-godot-2025-tier-3/)
 
+## [1. Intro to Godot 4 Game Development](https://academy.zenva.com/course/intro-to-godot-4-game-development-2023/)
+Time: 2hs 44min
+1. Course Requirements
+2. Introduction
+3. Downloading Godot
+4. Godot Installation and Version
+5. Creating a New Project
+6. Editor Overview
+7. Quiz - Editor Overview
+8. Scene Navigation
+9. Basic Shorcuts Cheatsheet
+10. Importing Assets
+11. Quiz - Navigation and Asset Importing
+
 ## [3. Git and GitHub for Godot – Version Control Essentials](https://academy.zenva.com/course/godot-version-control-course/)
+Time: 48min
 1. Course Requirements
 2. Introduction
 3. Godot installation and Version
@@ -14,15 +29,4 @@
 11. Merge Conflicts
 12. Conclusion
 
-## Nodes and Scenes – Part 1
-1. Course Requirements
-2. Introduction
-3. Downloading Godot
-4. Godot Installation and Version
-5. Creating a New Project
-6. Editor Overview
-7. Quiz - Editor Overview
-8. Scene Navigation
-9. Basic Shorcuts Cheatsheet
-10. Importing Assets
-11. Quiz - Navigation and Asset Importing
+
