@@ -1,6 +1,7 @@
-
+# Intro to Godot 4 Game Development
 
 ## Git and GitHub for Godot – Version Control Essentials
+Link: https://academy.zenva.com/lesson/github-desktop-2/?zva_less_compl=3554650
 1. Course Requirements
 2. Introduction
 3. Godot installation and Version
@@ -13,3 +14,16 @@
 10. Pulling from the Repo
 11. Merge Conflicts
 12. Conclusion
+
+## Nodes and Scenes – Part 1
+1. Course Requirements
+2. Introduction
+3. Downloading Godot
+4. Godot Installation and Version
+5. Creating a New Project
+6. Editor Overview
+7. Quiz - Editor Overview
+8. Scene Navigation
+9. Basic Shorcuts Cheatsheet
+10. Importing Assets
+11. Quiz - Navigation and Asset Importing
