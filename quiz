@@ -1,5 +1,4 @@
 1.7 Quiz - Editor Overview ✅
-
 # 1. What is the purpose of the Scene dock?
 Display all the nodes in the current scene.
 
@@ -8,3 +7,20 @@ FileSystem
 
 #3. When we select a node, what happens in the Inspector dock?
 It displays that node's properties.
+
+1.11 
+#1. What is the primary function of the scene viewport in the Godot Editor?
+To see and edit the scene from the editor
+
+#2. How do you pan around the screen in 2D mode within the Godot Editor?
+Use the middle mouse button
+
+#3. Which of the following assets can be imported into a Godot game project?
+Script files
+2D textures
+Sound file
+3D models
+All of the above
+
+#4. How do you zoom in and out in the 2D mode of the Godot Editor?
+Use the mouse scroll wheel 
