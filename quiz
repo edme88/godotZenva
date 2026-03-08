@@ -34,3 +34,17 @@ It's the node that contains all others in the scene.
 
 #3. The fundamental building blocks for our Godot games, are known as what?
 Nodes
+
+
+1.18
+#1. What tool is used in Godot to select a node from the viewport?
+Select Mode Tool
+
+#2. Which of the following is a direct result of using the Rotate Mode on a node in Godot?
+Rotates the node around its pivot
+
+#3. What does parenting a node in Godot affect?
+The inheritance of position, rotation, and scale properties
+
+#4. What is the primary benefit of creating a parent-child relationship between nodes in Godot?
+To allow child nodes to inherit properties like position, rotation, and scale from the parent
