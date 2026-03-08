@@ -24,3 +24,13 @@ All of the above
 
 #4. How do you zoom in and out in the 2D mode of the Godot Editor?
 Use the mouse scroll wheel 
+
+1.14
+#1. If we have a node or group of nodes that will be repeatedly used in our game, should we make it a scene?
+Yes
+
+#2. What is the root node?
+It's the node that contains all others in the scene.
+
+#3. The fundamental building blocks for our Godot games, are known as what?
+Nodes
