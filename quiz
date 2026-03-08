@@ -58,3 +58,13 @@ MeshInstance3D
 
 #3. What root node is needed for a 3D scene?
 Node3D
+
+1.25
+#1. If we wanted to simulate the sun, what type of light node would we use?
+DirectionalLight3D
+
+#2. What does a material do?
+It decides how the object will be rendered to our screen.
+
+#3. An OmniLight3D node, does what?
+It projects light in all directions.
