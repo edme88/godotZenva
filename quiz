@@ -48,3 +48,13 @@ The inheritance of position, rotation, and scale properties
 
 #4. What is the primary benefit of creating a parent-child relationship between nodes in Godot?
 To allow child nodes to inherit properties like position, rotation, and scale from the parent
+
+1.21
+#1. In our 3D environment, which axis correlates to the up/down direction?
+Y
+
+#2. What node do we use to render a 3D object?
+MeshInstance3D
+
+#3. What root node is needed for a 3D scene?
+Node3D
