@@ -19,7 +19,7 @@ Time: 2hs 44min
 15. Node Toold - Part 1 
 16. Node Toold - Part 2
 17. Parenting
-18. Quiz - Node Toold and Parenting ✅
+18. Quiz - Node Toold and Parenting 
 19. Intro to 3D - Part 1
 20. Intro to 3D - Part 2
 21. Quiz - Intro to 3D
@@ -31,8 +31,8 @@ Time: 2hs 44min
 27. Variables - Part 1
 28. Variables - Part 2
 29. Variables - Part 3
-30. Variables - In-depth Overview
-31. Quiz - Variables
+30. Variables - [In-depth Overview](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html)
+31. Quiz - Variables ✅
 32. Operators - Part 1
 33. Operators - Part 2
 34. Operators - In-depth Overview
