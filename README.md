@@ -32,11 +32,11 @@ Time: 2hs 44min
 28. Variables - Part 2
 29. Variables - Part 3
 30. Variables - [In-depth Overview](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html)
-31. Quiz - Variables ✅
+31. Quiz - Variables 
 32. Operators - Part 1
 33. Operators - Part 2
-34. Operators - In-depth Overview
-35. Quiz - Operators
+34. Operators - [In-depth Overview](https://academy.zenva.com/lesson/operators-in-depth-overview/?zva_less_compl=3267639)
+35. Quiz - Operators ✅
 36. Conditions - Part 1
 37. Conditions - Part 2
 38. Conditions - Part 3
