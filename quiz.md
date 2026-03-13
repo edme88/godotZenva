@@ -68,3 +68,17 @@ It decides how the object will be rendered to our screen.
 
 #3. An OmniLight3D node, does what?
 It projects light in all directions.
+
+1.31
+#1. How would we create a variable called “score” and give it a value of 5?
+var score = 5
+
+#2. What is the difference between an “int” and a “float” variable?
+int = whole numbers, float = decimal numbers
+
+#3. Static typing is where we define the type of variable when creating it. What does that look like?
+var message : String = "Hello!"
+
+#4. Which line of code below is correct?
+var game_over : bool = false 
+
