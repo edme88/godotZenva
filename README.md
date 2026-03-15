@@ -31,17 +31,68 @@ Time: 2hs 44min
 27. Variables - Part 1
 28. Variables - Part 2
 29. Variables - Part 3
+
+Example:
+```
+extends Node2D
+
+var country_name : String = "Argentina"
+var population : int = 500000
+var highest_altitude : float = 34.23
+var landlocked : bool = true
+
+# Called when the node enters the scene tree for the first time.
+func _ready() -> void:
+	print(country_name)
+	print(population)
+	print(highest_altitude)
+	print(landlocked)
+```
+
 30. Variables - [In-depth Overview](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html)
 31. Quiz - Variables 
 32. Operators - Part 1
 33. Operators - Part 2
+
+Exercise:
+```
+extends Node2D
+
+var score : int = 0
+
+func _ready() -> void:
+	score += 1
+	print(score)
+	score *= 10
+	print(score)
+	score -= 1
+	print(score)
+	score /= 3
+	print(score)
+```
+
 34. Operators - [In-depth Overview](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html)
-35. Quiz - Operators ✅
+35. Quiz - Operators 
 36. Conditions - Part 1
 37. Conditions - Part 2
 38. Conditions - Part 3
 39. Conditions - In-depth Overview
-40. Quiz - Conditions
+
+```
+extends Node2D
+
+var score : int = 10
+
+func _ready() -> void:
+	if score == 10:
+		print("You win")
+  elif score  > 60:
+    print("A")
+  else:
+    print("D")
+```
+
+40. Quiz - Conditions ✅
 41. Functions - Part 1
 42. Functions - Part 2
 43. Functions - In-depth Overview
