@@ -92,11 +92,22 @@ func _ready() -> void:
     print("D")
 ```
 
-40. Quiz - Conditions ✅
+40. Quiz - Conditions 
 41. Functions - Part 1
 42. Functions - Part 2
 43. Functions - In-depth Overview
-44. Quiz - Functions
+
+```
+func _ready() -> void:
+	var result = _add(3, 7)
+	print(result)
+
+func _add(a, b):
+	var sum = a + b
+	return sum
+```
+
+44. Quiz - Functions ✅
 45. Vectors
 46. Vectors - In-depth Overview
 47. Quiz - Vectors
