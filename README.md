@@ -145,6 +145,33 @@ func _process(delta: float) -> void:
 60. Conclusion
 61. Full Source Code - Godot Game Engine 
 
+## [2. Godot 4 Mini-Projects](https://academy.zenva.com/course/godot-4-mini-projects-2023/)
+Time: 1hs 25min
+1. Course Requirements
+2. Introduction
+3. Godot Installation and Version
+4. Balloon Popper - Part 1
+5. Balloon Popper - Part 2
+6. Balloon Popper - Part 3
+7. Balloon Popper - Part 4
+8. Balloon Popper - In-depth Overview
+9. Quiz - Balloon Popper
+10. Physics - Part 1
+11. Physics - Part 2
+12. Physics - In-depth Overview
+13. Quiz - Physics
+14. Loops - Part 1
+15. Loops - Part 2
+16. Loops - In-depth Overview
+17. Quiz - Loops
+18. Collision - Part 1
+19. Collision - Part 2
+20. Collision - Part 3
+21. Collision - In-depth Overview
+22. Quiz - Collision
+23. Conclusion
+24. Full Source Code - Godot 4 Mini-Projects 
+
 ## [3. Git and GitHub for Godot – Version Control Essentials](https://academy.zenva.com/course/godot-version-control-course/)
 Time: 48min
 Certificado: https://academy.zenva.com/certificate/f215aa96612a
