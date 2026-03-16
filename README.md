@@ -129,9 +129,9 @@ func _process(delta: float) -> void:
 	var direction = Vector2(1,1)
 	global_position += direction * 30 * delta
 ```
-47. Quiz - Vectors ✅
+47. Quiz - Vectors 
 48. Challenge - Part 1
-49. Challenge - Part 2
+49. Challenge - Part 2 ✅
 50. Coin Collector Game - Part 1
 51. Coin Collector Game - Part 2
 52. Coin Collector Game - Part 3
