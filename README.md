@@ -131,7 +131,7 @@ func _process(delta: float) -> void:
 ```
 47. Quiz - Vectors 
 48. Challenge - Part 1
-49. Challenge - Part 2 ✅
+49. Challenge - Part 2 
 50. Coin Collector Game - Part 1
 51. Coin Collector Game - Part 2
 52. Coin Collector Game - Part 3
@@ -140,7 +140,7 @@ func _process(delta: float) -> void:
 55. Player - In-depth Overview
 56. Coin - In-depth Overview
 57. Quiz - Coin Collector Project
-58. Exporting Your Game
+58. Exporting Your Game ✅
 59. Setting a Custom Game Icon
 60. Conclusion
 61. Full Source Code - Godot Game Engine 
