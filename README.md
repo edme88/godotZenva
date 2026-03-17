@@ -140,18 +140,18 @@ func _process(delta: float) -> void:
 55. Player - In-depth Overview
 56. Coin - In-depth Overview
 57. Quiz - Coin Collector Project
-58. Exporting Your Game ✅
+58. Exporting Your Game 
 59. Setting a Custom Game Icon
 60. Conclusion
 61. Full Source Code - Godot Game Engine 
 
 ## [2. Godot 4 Mini-Projects](https://academy.zenva.com/course/godot-4-mini-projects-2023/)
 Time: 1hs 25min
-1. Course Requirements
+1. Course Requirements 
 2. Introduction
 3. Godot Installation and Version
 4. Balloon Popper - Part 1
-5. Balloon Popper - Part 2
+5. Balloon Popper - Part 2 ✅
 6. Balloon Popper - Part 3
 7. Balloon Popper - Part 4
 8. Balloon Popper - In-depth Overview
